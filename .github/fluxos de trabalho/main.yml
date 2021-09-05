@@ -1,4 +1,4 @@
- nome : Gerar dados
+  nome : Gerar dados
 
 em :
   cronograma : # executar a cada 12 horas
@@ -14,7 +14,7 @@ empregos :
       - usa : Platane / snk @ master
         id : snake-gif
         com :
-          github_user_name : Andrius-Pacheco
+          github_user_name : Andrius-pacheco
           svg_out_path : dist / github-Contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
